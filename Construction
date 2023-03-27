@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap-grid.css" rel="stylesheet" >
+    <link  href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.map.js" ></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+   
+    <head>
+        <title>Construction Company Website</title>
+    </head>
+    <body style="background-color:white;  background-image: url('gaj1.jpg') ">
+             <style> 
+            .a{ font-family:Verdana, Geneva, Tahoma, sans-serif;
+                font-size: 20px;
+             
+            }
+            .b{
+                background-color:white;
+            }
+            .c{
+                background-color:rgb(102, 133, 211); font-size: 20px; text-align:center;}
+        </style>
+        <div>
+               
+               
+                <div class="container-xxl" style="position:fixed">
+               <div class="row" style="background-color: rgb(102, 133, 211); height: 60px; padding:5px; ">
+                <div class="col-sm-1 a"> <div class="container-md">
+                    <div class="offcanvas offcanvas-start" id="demo">
+                        <div class="offcanvas-header">
+                            <h1 clas="offcanvas-title">CYS Construction</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="offcanvas"></button>
+                        </div>
+                        <div class="offcanvas-body">
+                             <p>Our team</p>
+                            <p><a href="form1.html">Grow with us </a></p>
+                            
+                        </div>
+                        </div>
+                        <button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#demo">
+                        Menu
+                        </button>
+                    </div>
+    </div>
+                <div class="col-sm-2 a"><b>CYS<br>CONSTRUCTION</b></a>
+                    </div>
+                <div class="col-md-2 a"><b>Home</b></div>
+                <div class="col-md-2 a"><b>Services</b></div>
+                <div class="col-md-2 a"><b>About</b></div>
+                <div class="col-md-2 a"><b>Projects</b></div>
+                <div class="col-md-1 a"><a><b>Contact</b></a></div>
+            </div>
+        </div>
+        </div>
+         <div class="row" style= "height:180px"></div>
+         <div class="row">
+         <div class="col-md-2"></div>
+         <div class="col-md-7"><h1 style="color: rgb(150, 10, 10); font-size: 38px; font-family:bold;">WE MAKES YOUR DREAMS COME TRUE</h1></div>
+         <div class="col-md-3"></div>
+        </div> 
+            <div class="row" style= "height:180px"></div>
+        <div class="row b">
+          <div class="col-md-5 b"></div>
+          <div class="col-md-2 b"><h3 style="text-align:center; font-size: 28px">COMPANY OVERVIEW</h3></div><br><br>
+          <div class="col-md-5 b"></div>  
+         </div>
+                <div class="row b">
+                 <div class="col-md-1 b"></div>
+                 <div class="col-md-5 b">
+                    <div style="background-color: whitesmoke">
+                        <img src="gaj2.jpg">
+                   <h2>EXPERTISE</h2>
+                    <h3 style="font-size: 16px;">CYS Constructions has deep ecperience in dreamless sector of civil works, electrical works, building constructions and maintenance, Consulting and Engineering Service, etc. Since enterprise need are becoming more challenging, change is more frequent and projects requires a variety of skills, we operate cross platform teams for complex projects 
+                        fusing different technologies.
+                    </h3></div>
+                    </div>
+                 <div class="col-md-1 b">
+                 </div>
+                 <div class="col-md-5 b">
+                    <div style="background-color: whitesmoke"><img src="gaj4.jpg">
+                    <h2>Services</h2>
+                    <h3 style="font-size: 16px">The company services its customers at every project phase, from strategy formulation through design,
+                        project management and implementation right through to support and upgrades. We are committed to best practices
+                        and professional integrity to ensure we deliver quality. Custome satisfaction drives every aspect of their commercial contractor business. These time-honored qualities 
+                        are incorporated into every project built by CYS CONSTRUCTIONS.
+                    </h3></div>
+                 </div>
+                  <div class="col-md-1 b"></div>
+              </div>
+              
+     <div class="row b">
+        
+     <div class="col-md-6">
+        <br><br>
+        <div style="text-align:center; background-color: whitesmoke; "><b style="font-size:18px;">ABOUT US</b>
+           <div style="font-size: 16px"> Setting an unmatched standard of quality and services, we introduce ourselves as 
+            CYS Constructions pvt. ltd., one of the leading service providers of <h6 style="color:red"> Civil, 
+                Exterior, and Engineering solutions</h6>
+            that has challenged the conventional way of thinking 
+            and thus given new dimension to <h6 style="color:red">Consultancy, Design, Civil Construction, Excavation, Earth Work, 
+                .</h6>
+With our team of professionals, we Endeavour to provide you a service, which has its focus on quality, ensure timely completion and 
+maintain safety standards.
+           </div>
+        </div>
+        </div>
+          <div class="col-sm-6 b">
+            <br><br>
+         <img src="gaj5.jpg">
+          </div>
+         </div>
+          <div class="row c">
+          <div class="col-md-2 c"></div>
+          <div class="col-md-3 c">2020
+         <br>Year
+          <br>Establish
+              </div>
+         <div class="col-md-3 c"> 50+ <br> Projects <br> Completed</div>
+          <div class="col-md-3 c">100+ <br> Contractors <br>Appointment </div>
+           <div class="col-md-1 c"></div>
+          
+          <div class="row a" style="background-color:white;">
+            <div class="col-md-4 a"></div>
+            <div class="col-md-5 a"><div style="text-align:center; font-size: 18px;"><b>PROJECTS</b></div></div>
+            <div class="col-md-2 a"></div>
+          <div class="row b">
+            <div class="col-md-1 b"></div>
+          <div class="col-md-11">
+            <div style="align-items:center;">
+             <div style="width:50%; background: silver;">
+            <div id="gajraj" class="carousel slide" data-bs-ride="carousel">
+               <div class="carousel-indicators">
+                   <button type="button" data-bs-target="#gajraj" data-bs-slide-to="0" class="active">                    
+                   </button>
+                   <button type="button" data-bs-target="#gajraj" data-bs-slide-to="1" ></button>
+                   <button type="button" data-bs-target="#gajraj" data-bs-slide-to="2" ></button>
+               </div>
+               <div class="carousel-inner" style="align-items:center;">
+                   <div class="carousel-item active">
+                    <img src="gaj6.jpg" alt="computer" class="d-block" style="width:100%; height:40%">
+                   </div>
+                   <div class="carousel-item">
+                    <img src="gaj7.jpg" alt="cartoon" class="d-block" style="width:100%; height:40%">
+                   </div>
+                   <div class="carousel-item">
+                    <img src="gaj8.jpg" alt="mickey" class="d-block" style="width:100%; height:40%">
+                   </div>
+               </div>
+                   <button class="carousel-control-prev" type="button" data-bs-target="#gajraj" data-bs-slide="prev">
+                   <span class="carousel-control-prev-icon"></span>
+                   </button>
+                   <button class="carousel-control-next" type="button" data-bs-target="#gajraj" data-bs-slide="next">
+                   <span class="carousel-control-next-icon"></span>
+                   </button> 
+                </div>
+            </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4"></div>
+                <div class="col-sm-4"><b>CONTACT</b></div>
+                <div class="col-sm-4"></div>
+            </div>
+            <div class="row" style="text-align:center; background-color: whitesmoke; ">
+                
+                <div class="col-sm-4">Inquiries
+                    <p style="font-size:18px;">For any inquiries, questions or commendations, please call: 123-456-7890 or fill out the following form</p>
+                </div>
+                <div class="col-sm-4"></div>
+                <div class="col-sm-4">Head Office
+                    <p style="font-size:18px;">GA 19B, Pul Pehaldpur<br> Badarpur Delhi(110044)
+                        <br><a href="mailto:cysconstruction01@gmail.com">cysconstruction01@gmail.com</a>
+                        <br>Mobile number: 9050873773 <br>
+                    Moblie number: 8368833112</p>
+                </div>
+                </div>
+
+</div>
+            </div>
+           </div>
+</div>
+    </body>
+</html>
